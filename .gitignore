@@ -3,7 +3,7 @@ __pycache__/
 
 .ipynb_checkpoints/
 
-models/*.pth
+# models/*.pth
 
 .env
 .venv/
